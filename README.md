@@ -1,2 +1,2 @@
 # 2-lab-SI
-KI Xosilova Sabohat 1-lab SIA
+KI Xosilova Sabohat 2-lab SIA
